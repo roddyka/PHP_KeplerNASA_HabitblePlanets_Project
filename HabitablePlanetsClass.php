@@ -1,5 +1,5 @@
 <?php 
-class HabitablePlanets {
+class HabitablePlanetsClass {
 
     public function __construct(public string $kepler_data){
         $kepler_data = $this->kepler_data;
